@@ -1,3 +1,11 @@
+# Audio
+persist.vendor.audio_fx.current=waves
+persist.vendor.audio_fx.waves.maxxsense=true
+persist.vendor.audio_fx.waves.proc_twks=true
+persist.vendor.audio_fx.waves.processing=true
+persist.vendor.audio_fx.waves.processing_nx=true
+persist.vendor.audio_fx.waves.systrace=true
+
 # Bluetooth
 bluetooth.device.default_name=Motorola Edge 20
 
