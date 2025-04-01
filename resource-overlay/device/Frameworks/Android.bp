@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "FrameworksResBerlin",
+    name: "FrameworksResDevice",
     vendor: true,
 }
